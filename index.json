@@ -1,0 +1,298 @@
+{
+    "packId": "My MPT Pack",
+    "version": "2.0",
+    "folder": "./", 
+    "characters": [
+        {
+            "id": "My MPT Pack",
+            "label": "Sayonika",
+            "styleGroups": [
+                {
+                    "id": "uniform", 
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./turned_facebase.png"
+                                            ],
+                                            [
+                                                "./turned_facebase2.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./turned_eyebrows_e.png"
+                                            ],
+                                            [
+                                                "./turned_eyebrows_f.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./turned_eyes_a.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_b.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_c.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_d.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_e.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_f.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_g.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_h.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_i.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./turned_mouth_a.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_b.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_c.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_d.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_e.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_f.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_g.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_h.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_i.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ],
+                                            [
+                                                "./3l.png"
+                                            ],  
+                                            [
+                                                "./4l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "swimsuit",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        }, 
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./turned_facebase.png"
+                                            ],
+                                            [
+                                                "./turned_facebase2.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./turned_eyebrows_e.png"
+                                            ],
+                                            [
+                                                "./turned_eyebrows_f.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./turned_eyes_a.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_b.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_c.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_d.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_e.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_f.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_g.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_h.png"
+                                            ],
+                                            [
+                                                "./turned_eyes_i.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./turned_mouth_a.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_b.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_c.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_d.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_e.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_f.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_g.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_h.png"
+                                            ],
+                                            [
+                                                "./turned_mouth_i.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "swimsuit/1l.png"
+                                            ],
+                                            [
+                                                "swimsuit/2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "swimsuit/1r.png"
+                                            ],
+                                            [
+                                                "swimsuit/2r2.png"
+                                            ], 
+                                            [ 
+                                                "swimsuit/2r1.png"
+                                            ]  
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

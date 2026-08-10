@@ -1,0 +1,27 @@
+{
+    "pack": {
+        "authors": [
+            "NormallyAverage", "itz_matic"
+        ],
+        "characters": [
+            "Sayonika - Remake"
+        ],
+        "dddg2Path": "./index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "My MPT Pack",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Sayonika - Remake",
+        "preview": [
+            "./eyebrows 1.png",
+            "./turned_eyes_f.png", 
+            "./turned_mouth_c.png", 
+            "./turned_facebase2.png",
+            "./1l.png",
+            "./2r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
